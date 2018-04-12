@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Thailand",
+    "country": "TH",
+    "region": "SE Asia",
+    "cost": 2280,
+    "currency": "USD",
+    "temp": 312.04,
+    "humidity": 78,
+    "internetSpeed": 20
+  },
+  {
+    "name": "Bangkok",
+    "country": "TH",
+    "region": "SE Asia",
+    "cost": 1280,
+    "currency": "USD",
+    "temp": 302.04,
+    "humidity": 78,
+    "internetSpeed": 20
+  },
+  {
+    "name": "Tokyo",
+    "country": "JP",
+    "region": "SE Asia",
+    "cost": 4320,
+    "currency": "USD",
+    "temp": 342.04,
+    "humidity": 68,
+    "internetSpeed": 100
+  }
+]
